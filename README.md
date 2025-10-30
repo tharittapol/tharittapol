@@ -2,7 +2,7 @@
 I’m **Big Tharittapol** — a **Robotics & Automation Engineer**
 
 ### 🚀 What I’m working on
-- **Service robots — Autonomous Mobile Robots (AMRs):** building end‑to‑end systems from sensing & perception to navigation, control, and deployment; validated in real‑world integrations
+- **🚗 Service robots — Autonomous Mobile Robots (AMRs):** building end‑to‑end systems from sensing & perception to navigation, control, and deployment; validated in real‑world integrations
 - **🏭 Industrial automation (SI):** ABB robot simulation & programming (RobotStudio, RAPID); PLC ladder & HMI (Mitsubishi, Omron, Siemens); OPC UA integration
 - **🧪 Education:** beginner robotics teaching, workshops, and training camps 
   
