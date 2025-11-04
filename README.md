@@ -9,7 +9,7 @@ I’m **Big Tharittapol** — a **Robotics & Automation Engineer**
 > If any of these match your interests, 👯 let’s collaborate! PRs and issues are welcome ✅
 
 ### 🌱 What I'm Learning
-I’m following a structured path: first revisiting core AI and math fundamentals; next the NVIDIA AI stack (CUDA, TensorRT, DeepStream); and finally applying AI to robotics with ROS 2, Isaac Sim, and Isaac ROS for sim‑to‑real workflows
+I’m currently focusing on MLOps / ML Platform Engineering—building end-to-end ML systems on Kubernetes with MLflow, Feast, KServe/BentoML, Prefect, and Evidently, plus Terraform (IaC), AWS, and CI/CD to take models from experiment to reliable production
 
 ### 💬 Ask Me About  
 -  Mobile robot localization, SLAM, and navigation systems
