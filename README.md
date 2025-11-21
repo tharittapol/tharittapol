@@ -67,7 +67,7 @@ I’m currently focusing on MLOps / ML Platform Engineering—building end-to-en
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"
        alt="Ubuntu" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
        alt="VS Code" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"
