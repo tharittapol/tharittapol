@@ -39,6 +39,15 @@ I’m **Big Tharittapol** — a **Robotics & Automation Engineer** who ships rea
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"
        alt="C++" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+       alt="TypeScript" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+       alt="JavaScript" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg"
+       alt="Go" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
 ### Robotics
@@ -63,8 +72,27 @@ I’m **Big Tharittapol** — a **Robotics & Automation Engineer** who ships rea
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
+### AI
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg"
+       alt="Claude AI (Claude Code, Claude Chat)" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+       alt="GPT (Codex, ChatGPT)" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg"
+       alt="Gemini AI (Gemini 3.1 Flash Lite, Gemini Chat)" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+</p>
+
 ### DevOps & Tools
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg"
+       alt="Google Cloud" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"
+       alt="Docker" height="56"
+       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
        alt="Git" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
@@ -73,9 +101,6 @@ I’m **Big Tharittapol** — a **Robotics & Automation Engineer** who ships rea
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
        alt="VS Code" height="56"
-       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"
-       alt="Docker" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
