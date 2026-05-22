@@ -80,9 +80,9 @@ I’m **Big Tharittapol** — a **Robotics & Automation Engineer** who ships rea
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
        alt="GPT (Codex, ChatGPT)" height="56"
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg"
-       alt="Gemini AI (Gemini 3.1 Flash Lite, Gemini Chat)" height="56"
-       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+     alt="VS Code" height="56"
+     style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
 ### DevOps & Tools
