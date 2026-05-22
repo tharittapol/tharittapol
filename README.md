@@ -1,25 +1,29 @@
 ## Hi there 👋
-I’m **Big Tharittapol** — a **Robotics & Automation Engineer**
+I’m **Big Tharittapol** — a **Robotics & Automation Engineer** who ships real-world robots and the software behind them.
 
 ### 🚀 What I’m working on
-- **🚗 Service robots — Autonomous Mobile Robots (AMRs):** building end‑to‑end systems from sensing & perception to navigation, control, and deployment; validated in real‑world integrations
-- **🏭 Industrial automation (SI):** ABB robot simulation & programming (RobotStudio, RAPID); PLC ladder & HMI (Mitsubishi, Omron, Siemens); OPC UA integration
-- **🧪 Education:** beginner robotics teaching, workshops, and training camps 
+- **🤖 ROS2-based Autonomous Mobile Robots (AMRs):** designing end-to-end systems — perception, SLAM, Nav2 navigation, control, and real-world deployment
+- **☁️ Production on Google Cloud:** taking software projects from local dev to live production — Cloud Run, GKE, IAM, CI/CD
+- **💻 Remote, code-first work:** building and shipping software end-to-end without leaving the terminal
+- **🧪 Education:** robotics teaching, workshops, and training camps 
   
 > If any of these match your interests, 👯 let’s collaborate! PRs and issues are welcome ✅
 
 ### 🌱 What I'm Learning
-I’m currently focusing on MLOps / ML Platform Engineering—building end-to-end ML systems on Kubernetes with MLflow, Feast, KServe/BentoML, Prefect, and Evidently, plus Terraform (IaC), AWS, and CI/CD to take models from experiment to reliable production
+- **🧠 Professional, high-leverage use of Claude AI** — applying it across robotics, software, and research workflows for serious productivity gains
+- **⚡ Techniques to boost AI performance** — prompt engineering, context engineering, agentic workflows, and tool use to get the most out of frontier models
 
 ### 💬 Ask Me About  
--  Mobile robot localization, SLAM, and navigation systems
+-  Mobile robot localization, SLAM, and Nav2-based navigation
 -  Robot coordinate frames, kinematics, and control
--  Simulation software (Gazebo/IGN, Isaac Sim, RobotStudio)
--  Robot programming (Python, C++, ROS2, MoveIt2, RAPID, ladder logic)
 -  Robot sensors & actuators
+-  Simulation (Gazebo / Ignition, Isaac Sim, RobotStudio)
+-  Robot programming (Python, C++, ROS2, MoveIt2, RAPID, ladder logic)
+-  Industrial automation: ABB robot simulation & programming (RobotStudio, RAPID); PLC ladder & HMI (Mitsubishi, Omron, Siemens); OPC UA integration
 -  System integration
--  Industrial robot manipulators
--  PLCs & HMIs
+-  Cloud deployment on GCP
+-  Getting real value out of Claude AI — prompting, agentic patterns, tool use
+-  Remote software delivery, and shipping under real-world constraints
 -  …and related topics
 
 ### 📫 How to Reach Me
