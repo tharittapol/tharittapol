@@ -77,19 +77,6 @@ My core is Mobile robots, Robot arms, ROS / ROS 2, and industrial automation. Iâ
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
-### Physical AI / Embodied AI (currently learning)
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg"
-       alt="NVIDIA Isaac Sim / Isaac Lab / Jetson" height="56"
-       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"
-       alt="PyTorch" height="56"
-       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png"
-       alt="OpenCV" height="56"
-       style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
-</p>
-
 ### AI Assistants (power-user workflows)
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Anthropic_logo.svg"
@@ -103,7 +90,7 @@ My core is Mobile robots, Robot arms, ROS / ROS 2, and industrial automation. Iâ
        style="display:inline-block; background:#fff; padding:8px; border-radius:10px; margin:6px; width:auto; vertical-align:middle;" loading="lazy" />
 </p>
 
-### Cloud & DevOps (production: GCP + Docker Â· currently learning: Kubernetes + Terraform)
+### Cloud & DevOps (currently learning: Kubernetes + Terraform)
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg"
        alt="Google Cloud (Cloud Run, GKE, IAM)" height="56"
