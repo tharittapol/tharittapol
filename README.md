@@ -5,28 +5,28 @@ My core is mobile robots, robot arms, ROS / ROS 2, and industrial automation. I�
  
 ### 🚀 What I’m working on
 - **🤖 ROS 2-based Autonomous Mobile Robots (AMRs):** designing end-to-end systems — perception, SLAM, Nav2 navigation, control, and real-world deployment
-- **🦾 Robot arms:** programming, motion planning, and integration (including ABB RobotStudio / RAPID and MoveIt 2)
+- **🦾 Robot arms:** programming, motion tuning, and integration of ABB robot cells (RobotStudio / RAPID); MoveIt 2 in study projects
 - **🏭 Industrial automation & System Integration:** PLC + robot arm + AMR working together as one system
 - **☁️ Production on Cloud:** taking software projects from local dev to live production
 - **💻 Remote, code-first work:** building and shipping software end-to-end without leaving the terminal
-- **🧪 Education:** robotics teaching, workshops, and training camps
+- **🧪 Education:** robotics teaching, workshops, and curriculum design for kids (BOROT, a STEM robotics school I co-founded)
 
 > If any of these match your interests, 👯 let’s collaborate! PRs and issues are welcome ✅
  
 ### 🌱 What I'm Learning / Exploring
 - **⚡ High-leverage AI workflows:** prompt engineering, context engineering, agentic patterns, tool use and research workflows for serious productivity gains
 - **⚙️ Robotics DevOps:** going deeper on Docker, Kubernetes (CKA track), Terraform / IaC, GitHub Actions, GitOps — treating robot software as first-class production software
-- **🧠 Physical AI / Embodied AI:** going beyond basic Isaac Sim usage into Isaac Lab, perception + policy learning for real robots, and edge inference on NVIDIA Jetson
+- **🧠 Physical AI / Embodied AI:** reinforcement learning for legged robots and sim-to-real (hands-on self-study since Nov 2026: MuJoCo first, then mjlab / Isaac Lab), perception + policy learning for real robots, and edge inference on NVIDIA Jetson
 - **📈 MLOps for robotics:** how ML models actually get onto robots — packaging, deployment, and monitoring
 
 ### 💬 Ask Me About
-- Robotics software: ROS / ROS 2, Nav2, MoveIt 2, SLAM, robot coordinate frames, kinematics, control, sensors & actuators
+- Robotics software: ROS / ROS 2, Nav2, behavior trees, localization and sensor fusion (EKF / Kalman filter), robot coordinate frames, kinematics, control, sensors & actuators
 - Mobile robots & AMRs: design, integration, and deployment
-- Robot arms: ABB RobotStudio & RAPID, MoveIt 2, integration patterns
-- Industrial automation & SI: PLC ladder / FBD & HMI (Mitsubishi, Omron, Siemens), OPC UA integration, end-to-end system integration
+- Robot arms: ABB RobotStudio & RAPID, robot-PLC I/O, camera-to-robot calibration, cycle-time tuning
+- Industrial automation & SI: PLC ladder / FBD (mostly Mitsubishi GX Works3; also Omron Sysmac Studio and Siemens TIA Portal), CC-Link remote I/O, commissioning a robot cell end to end
 - Robotics fundamentals: the mechanical, electrical, and software sides of building a robot — I studied robotics as a full degree, not as an add-on
-- Simulation: Gazebo / Ignition, RobotStudio, and Isaac Sim
-- Robot programming: Python, C++, ROS 2, MoveIt 2, RAPID, ladder logic
+- Simulation: RobotStudio, Gazebo (study projects), and Isaac Sim (multi-camera rendering)
+- Robot programming: Python, C++, ROS 2, RAPID, ladder logic, ESP32 firmware
 - Cloud deployment on GCP (Cloud Run) and remote software delivery
 - Getting real value out of Claude AI: prompting, agentic patterns, tool use
 - …and related topics
@@ -52,7 +52,6 @@ My core is mobile robots, robot arms, ROS / ROS 2, and industrial automation. I�
 ![Mitsubishi PLC](https://img.shields.io/badge/Mitsubishi%20PLC-E60012?style=for-the-badge&logoColor=white)
 ![Omron PLC](https://img.shields.io/badge/Omron%20PLC-0075C1?style=for-the-badge&logoColor=white)
 ![Siemens PLC](https://img.shields.io/badge/Siemens%20PLC-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![OPC UA](https://img.shields.io/badge/OPC%20UA-005B96?style=for-the-badge&logoColor=white)
  
 ### Vision & ML
 [![My Skills](https://skillicons.dev/icons?i=opencv,pytorch)](https://skillicons.dev)
